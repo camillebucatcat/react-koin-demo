@@ -1,7 +1,8 @@
 # react-demo-app
 
+To install
 ```sh
-npm run
+npm install
 ```
 
 ```sh
