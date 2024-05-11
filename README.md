@@ -1,6 +1,11 @@
-# react-koin-demo
-npm run 
+# react-demo-app
 
-› Press a │ open Android
-› Press i │ open iOS simulator
-› Press w │ open web
+```sh
+npm run
+```
+
+```sh
+Press a │ open Android
+Press i │ open iOS simulator
+Press w │ open web
+```
